@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#11241b">
+  <title>BANU Bronze – 75 Arten</title>
+  <meta name="description" content="Interaktive Lernkarten für 75 Vogelarten der BANU-Bronze-Lerntabelle.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Vogelkunde · Lernkarten</p>
+        <h1>BANU Bronze – 75 Arten</h1>
+      </div>
+      <div class="topbar-actions">
+        <button class="ghost-button" id="shuffleButton" type="button" title="Karten mischen">
+          Mischen
+        </button>
+        <button class="ghost-button" id="resetButton" type="button" title="Reihenfolge zurücksetzen">
+          Zurücksetzen
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <nav class="view-tabs" aria-label="Ansicht">
+        <button class="view-tab is-active" type="button" data-view="cards" aria-selected="true">Lernkarten</button>
+        <button class="view-tab" type="button" data-view="systematics" aria-selected="false">Systematik</button>
+      </nav>
+
+      <div id="cardsView">
+      <section class="toolbar" aria-label="Kartenauswahl">
+        <label class="search-box">
+          <span>Suche</span>
+          <input id="searchInput" type="search" placeholder="Art, wissenschaftlicher Name, Familie …" autocomplete="off">
+        </label>
+
+        <label>
+          <span>Ordnung</span>
+          <select id="orderFilter">
+            <option value="">Alle Ordnungen</option>
+          </select>
+        </label>
+
+        <label>
+          <span>Familie</span>
+          <select id="familyFilter">
+            <option value="">Alle Familien</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="study-status" aria-live="polite">
+        <div>
+          <strong id="positionLabel">–</strong>
+          <span id="resultLabel">Karten</span>
+        </div>
+        <div class="progress-track" aria-hidden="true">
+          <span id="progressBar"></span>
+        </div>
+      </section>
+      <section class="card-stage">
+        <button class="nav-button prev" id="prevButton" type="button" aria-label="Vorherige Karte">←</button>
+
+        <article class="flashcard" id="flashcard" tabindex="0" aria-label="Lernkarte umdrehen">
+          <div class="card-inner">
+            <section class="card-face card-front">
+              <div class="species-media" id="frontMedia" hidden>
+                <img id="frontImage" alt="">
+              </div>
+              <div class="front-copy">
+                <p class="card-kicker">Art</p>
+                <h2 id="speciesName">Lade Daten …</h2>
+                <p class="scientific-preview" id="scientificPreview"></p>
+                <p class="flip-hint">Klicken oder Leertaste drücken, um die Karte umzudrehen.</p>
+              </div>
+            </section>
+
+            <section class="card-face card-back" aria-hidden="true">
+              <div class="back-header">
+                <div>
+                  <p class="card-kicker">Art</p>
+                  <h2 id="backSpeciesName"></h2>
+                </div>
+                <span class="back-number" id="cardNumber"></span>
+              </div>
+              <div class="species-media back-media" id="backMedia" hidden>
+                <img id="backImage" alt="">
+              </div>
+              <dl class="field-grid" id="fieldGrid"></dl>
+            </section>
+          </div>
+        </article>
+
+        <button class="nav-button next" id="nextButton" type="button" aria-label="Nächste Karte">→</button>
+      </section>
+
+      <section class="bottom-controls">
+        <button class="primary-button" id="flipButton" type="button">Antwort anzeigen</button>
+        <p class="keyboard-help">
+          <kbd>←</kbd><kbd>→</kbd> navigieren · <kbd>Leertaste</kbd> umdrehen
+        </p>
+      </section>
+
+      <section class="empty-state" id="emptyState" hidden>
+        <h2>Keine Karten gefunden</h2>
+        <p>Ändere die Suche oder setze die Filter zurück.</p>
+        <button class="primary-button" id="clearFiltersButton" type="button">Filter löschen</button>
+      </section>
+      </div>
+
+      <section class="systematics-view" id="systematicsView" hidden>
+        <header class="systematics-header">
+          <div>
+            <p class="eyebrow">Vogelkunde · Systematik</p>
+            <h2>Systematik</h2>
+            <p class="systematics-note">Darstellung nach Ordnung, Familie und Art auf Basis der Lerndaten.</p>
+          </div>
+          <label class="systematics-search">
+            <span>Suche</span>
+            <input id="systematicsSearch" type="search" placeholder="Art, wissenschaftlicher Name, Familie …" autocomplete="off">
+          </label>
+        </header>
+
+        <section class="systematics-stats" aria-labelledby="statsTitle">
+          <div class="stats-heading">
+            <div>
+              <p class="card-kicker">Statistik</p>
+              <h3 id="statsTitle">Arten je Ordnung</h3>
+            </div>
+            <p>Kurzübersicht über die 75 Arten des Lerndatensatzes.</p>
+          </div>
+
+          <div class="stats-metrics" aria-label="Zusammenfassung">
+            <div class="stat-metric">
+              <span>Arten</span>
+              <strong id="statsSpecies">75</strong>
+            </div>
+            <div class="stat-metric">
+              <span>Ordnungen</span>
+              <strong id="statsOrders">–</strong>
+            </div>
+            <div class="stat-metric">
+              <span>Median</span>
+              <strong id="statsMedian">–</strong>
+              <small>Arten / Ordnung</small>
+            </div>
+            <div class="stat-metric">
+              <span>Größte Ordnung</span>
+              <strong id="statsLargest">–</strong>
+              <small id="statsLargestName"></small>
+            </div>
+          </div>
+
+          <div class="order-chart" id="orderChart" role="img" aria-label="Horizontales Balkendiagramm der Artenzahl je Ordnung"></div>
+        </section>
+
+        <div class="taxonomy-root">
+          <div class="taxonomy-root-label">
+            <span class="taxonomy-rank">Klasse</span>
+            <strong>Aves</strong>
+            <span id="taxonomyCount">75 Arten</span>
+          </div>
+          <div id="taxonomyTree" class="taxonomy-tree"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <span class="citation">Quelle: Bundesweiter Arbeitskreis der staatlich getragenen Bildungsstätten im Natur- und Umweltschutz (BANU) (Hrsg.) (2026): <a href="https://banu-akademien.de/wp-content/uploads/2026/02/BANU_Feldornithologie_Pruefungsanforderungen_05022026.pdf" target="_blank" rel="noopener"><em>Wissen – Qualifizieren – Zertifizieren für Artenvielfalt. Feldornithologie – Prüfungsanforderungen.</em></a> Version 5 (2026).</span>
+      <span>Fortschritt und Reihenfolge bleiben nur in diesem Browser.</span>
+    </footer>
+  </div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

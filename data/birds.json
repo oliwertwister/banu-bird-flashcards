@@ -1,0 +1,1449 @@
+{
+  "meta": {
+    "title": "BANU Bronze – 75 Arten",
+    "source": "BANU_Bronze_75_Arten_Ausfuehrliche_Lerntabelle.xlsx",
+    "sheet": "75 Arten – Lernübersicht",
+    "cardTitleField": "Art",
+    "displayFields": [
+      "Wissenschaftlicher Name",
+      "Ordnung",
+      "Familie",
+      "Typischer Lebensraum",
+      "Optik – Schlüsselmerkmale",
+      "Verwechslungsarten",
+      "Bruthabitat / Nest",
+      "Bruttyp",
+      "Zugverhalten",
+      "Kartierungs-/ÖBB-Merker",
+      "Prüfungs-Merksatz"
+    ],
+    "imageSupport": "optional image/imageAlt fields"
+  },
+  "cards": [
+    {
+      "id": 1,
+      "art": "Amsel",
+      "fields": {
+        "Wissenschaftlicher Name": "Turdus merula",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Drosseln",
+        "Typischer Lebensraum": "Wald, Parks, Gärten, Siedlungen",
+        "Optik – Schlüsselmerkmale": "männlich schwarz mit gelbem Schnabel; Weibchen braun; häufig auf dem Boden",
+        "Verwechslungsarten": "Singdrossel, Wacholderdrossel",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen (indifferent) – Gebüsch – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "Boden- und Deckungssuche; sehr häufig in Siedlungen",
+        "Prüfungs-Merksatz": "männlich schwarz mit gelbem Schnabel"
+      },
+      "image": null,
+      "imageAlt": "Amsel"
+    },
+    {
+      "id": 2,
+      "art": "Bachstelze",
+      "fields": {
+        "Wissenschaftlicher Name": "Motacilla alba",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Stelzenverwandte",
+        "Typischer Lebensraum": "Gewässerufer, Siedlungen, offene Landschaft",
+        "Optik – Schlüsselmerkmale": "schwarz-weiß; langer Schwanz, ständiges Schwanzwippen",
+        "Verwechslungsarten": "Gebirgsstelze",
+        "Bruthabitat / Nest": "Siedlung  (indifferent) – Gebäude / Bauwerk – Nische / Halbhöhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "Schwanzwippen + kontrastreiches Schwarz-Weiß",
+        "Prüfungs-Merksatz": "schwarz-weiß"
+      },
+      "image": null,
+      "imageAlt": "Bachstelze"
+    },
+    {
+      "id": 3,
+      "art": "Blässhuhn",
+      "fields": {
+        "Wissenschaftlicher Name": "Fulica atra",
+        "Ordnung": "Kranichvögel",
+        "Familie": "Rallen",
+        "Typischer Lebensraum": "Seen, Teiche, langsam fließende Gewässer",
+        "Optik – Schlüsselmerkmale": "schwarz; weißer Stirnschild und Schnabel",
+        "Verwechslungsarten": "Teichhuhn",
+        "Bruthabitat / Nest": "Stillgewässer – Wasseroberfläche – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "weißer Stirnschild ist Schlüsselmerkmal",
+        "Prüfungs-Merksatz": "schwarz"
+      },
+      "image": null,
+      "imageAlt": "Blässhuhn"
+    },
+    {
+      "id": 4,
+      "art": "Blaumeise",
+      "fields": {
+        "Wissenschaftlicher Name": "Cyanistes caeruleus",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Meisen",
+        "Typischer Lebensraum": "Laub- und Mischwald, Gärten",
+        "Optik – Schlüsselmerkmale": "blauer Scheitel, gelbe Unterseite, schwarzer Augenstreif",
+        "Verwechslungsarten": "Kohlmeise",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: Wald  und waldähnliche Strukturen – Baum – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "klein; blau-gelb; dunkler Augenstreif",
+        "Prüfungs-Merksatz": "blauer Scheitel, gelbe Unterseite, schwarzer Augenstreif"
+      },
+      "image": null,
+      "imageAlt": "Blaumeise"
+    },
+    {
+      "id": 5,
+      "art": "Buchfink",
+      "fields": {
+        "Wissenschaftlicher Name": "Fringilla coelebs",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Finkenverwandte",
+        "Typischer Lebensraum": "Wälder, Parks, Hecken, Gärten",
+        "Optik – Schlüsselmerkmale": "Männchen rostrot an Brust/Wange, blaugrauer Kopf; zwei weiße Flügelbinden",
+        "Verwechslungsarten": "Bergfink",
+        "Bruthabitat / Nest": "Wald (indifferent) – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "zwei weiße Flügelbinden + typischer Schluss",
+        "Prüfungs-Merksatz": "Männchen rostrot an Brust/Wange, blaugrauer Kopf"
+      },
+      "image": null,
+      "imageAlt": "Buchfink"
+    },
+    {
+      "id": 6,
+      "art": "Buntspecht",
+      "fields": {
+        "Wissenschaftlicher Name": "Dendrocopos major",
+        "Ordnung": "Spechtvögel",
+        "Familie": "Spechte",
+        "Typischer Lebensraum": "Wälder, Parks, Gärten",
+        "Optik – Schlüsselmerkmale": "schwarz-weiß; roter Unterschwanz; Männchen roter Nackenfleck",
+        "Verwechslungsarten": "Mittelspecht, Weißrückenspecht",
+        "Bruthabitat / Nest": "Wald (indifferent) – Baum – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "roter Unterschwanz; Männchen roter Nacken",
+        "Prüfungs-Merksatz": "schwarz-weiß"
+      },
+      "image": null,
+      "imageAlt": "Buntspecht"
+    },
+    {
+      "id": 7,
+      "art": "Dorngrasmücke",
+      "fields": {
+        "Wissenschaftlicher Name": "Sylvia communis",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Grasmückenverwandte",
+        "Typischer Lebensraum": "Hecken, Brachen, Feldgehölze",
+        "Optik – Schlüsselmerkmale": "grauer Kopf, rostbrauner Rücken, heller Bauch; weißliche Kehle",
+        "Verwechslungsarten": "Gartengrasmücke, Klappergrasmücke",
+        "Bruthabitat / Nest": "landwirtschaftlich genutztes Offenland (indifferent) – Gebüsch – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Zugvogel",
+        "Kartierungs-/ÖBB-Merker": "typische Heckenart des Offenlands",
+        "Prüfungs-Merksatz": "grauer Kopf, rostbrauner Rücken, heller Bauch"
+      },
+      "image": null,
+      "imageAlt": "Dorngrasmücke"
+    },
+    {
+      "id": 8,
+      "art": "Eichelhäher",
+      "fields": {
+        "Wissenschaftlicher Name": "Garrulus glandarius",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Krähenverwandte",
+        "Typischer Lebensraum": "Wälder, Parks, Feldgehölze",
+        "Optik – Schlüsselmerkmale": "rosabraun; blau-schwarz-weiße Flügelfelder",
+        "Verwechslungsarten": "keine besonders nahe Verwechslungsart",
+        "Bruthabitat / Nest": "Wald (indifferent) – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "blaues Flügelfeld ist auffällig",
+        "Prüfungs-Merksatz": "rosabraun"
+      },
+      "image": null,
+      "imageAlt": "Eichelhäher"
+    },
+    {
+      "id": 9,
+      "art": "Eisvogel",
+      "fields": {
+        "Wissenschaftlicher Name": "Alcedo atthis",
+        "Ordnung": "Rackenvögel",
+        "Familie": "Eisvögel",
+        "Typischer Lebensraum": "klare Fließ- und Stillgewässer mit Ufervegetation",
+        "Optik – Schlüsselmerkmale": "blau/türkis oben, orange Unterseite, langer Schnabel",
+        "Verwechslungsarten": "keine nahe Art im Binnenland",
+        "Bruthabitat / Nest": "Fließgewässer – Erde / Abbrüche – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "blau-orange + schneller, geradliniger Flug",
+        "Prüfungs-Merksatz": "blau/türkis oben, orange Unterseite, langer Schnabel"
+      },
+      "image": null,
+      "imageAlt": "Eisvogel"
+    },
+    {
+      "id": 10,
+      "art": "Elster",
+      "fields": {
+        "Wissenschaftlicher Name": "Pica pica",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Krähenverwandte",
+        "Typischer Lebensraum": "Siedlungen, Agrarlandschaft, Parks",
+        "Optik – Schlüsselmerkmale": "schwarz-weiß mit grünlich-blauem Glanz",
+        "Verwechslungsarten": "Rabenkrähe, Saatkrähe",
+        "Bruthabitat / Nest": "Siedlung  (indifferent) – Baum – geschlossenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "sehr langer Schwanz + schwarz-weiß",
+        "Prüfungs-Merksatz": "schwarz-weiß mit grünlich-blauem Glanz"
+      },
+      "image": null,
+      "imageAlt": "Elster"
+    },
+    {
+      "id": 11,
+      "art": "Feldlerche",
+      "fields": {
+        "Wissenschaftlicher Name": "Alauda arvensis",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Lerchen",
+        "Typischer Lebensraum": "offene Agrarlandschaft, Wiesen, Brachen",
+        "Optik – Schlüsselmerkmale": "braun gestrichelt; kleine Federhaube möglich",
+        "Verwechslungsarten": "Heidelerche",
+        "Bruthabitat / Nest": "landwirtschaftlich genutztes Offenland (indifferent) – Boden – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "typischer Singflug hoch über offenem Gelände",
+        "Prüfungs-Merksatz": "braun gestrichelt"
+      },
+      "image": null,
+      "imageAlt": "Feldlerche"
+    },
+    {
+      "id": 12,
+      "art": "Feldsperling",
+      "fields": {
+        "Wissenschaftlicher Name": "Passer montanus",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Sperlinge",
+        "Typischer Lebensraum": "Dörfer, Obstwiesen, Feldgehölze",
+        "Optik – Schlüsselmerkmale": "braune Kopfplatte, schwarzer Wangenfleck, weißer Halsring",
+        "Verwechslungsarten": "Haussperling",
+        "Bruthabitat / Nest": "dörfliche Bebauung – Baum – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "schwarzer Wangenfleck + brauner Scheitel",
+        "Prüfungs-Merksatz": "braune Kopfplatte, schwarzer Wangenfleck, weißer Halsring"
+      },
+      "image": null,
+      "imageAlt": "Feldsperling"
+    },
+    {
+      "id": 13,
+      "art": "Flussregenpfeifer",
+      "fields": {
+        "Wissenschaftlicher Name": "Charadrius dubius",
+        "Ordnung": "Regenpfeifervögel",
+        "Familie": "Regenpfeiferverwandte",
+        "Typischer Lebensraum": "Kies-/Sandufer, Abgrabungen, Rohböden",
+        "Optik – Schlüsselmerkmale": "klein; brauner Rücken, weißer Bauch, schwarzes Brustband und Augenmaske",
+        "Verwechslungsarten": "Sandregenpfeifer",
+        "Bruthabitat / Nest": "Sonderstandorte des Offenlandes (indifferent) – Boden – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Zugvogel",
+        "Kartierungs-/ÖBB-Merker": "gelber Augenring beim Altvogel",
+        "Prüfungs-Merksatz": "klein"
+      },
+      "image": null,
+      "imageAlt": "Flussregenpfeifer"
+    },
+    {
+      "id": 14,
+      "art": "Flussuferläufer",
+      "fields": {
+        "Wissenschaftlicher Name": "Actitis hypoleucos",
+        "Ordnung": "Regenpfeifervögel",
+        "Familie": "Schnepfenverwandte",
+        "Typischer Lebensraum": "Fließgewässerufer, Kies- und Schlammbänke",
+        "Optik – Schlüsselmerkmale": "braun-weiß; dunkler Oberkörper, weiße Schulter-/Brustpartie",
+        "Verwechslungsarten": "Waldwasserläufer",
+        "Bruthabitat / Nest": "Fließgewässer – Boden – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Zugvogel",
+        "Kartierungs-/ÖBB-Merker": "typisches Schwanzwippen und tief über Wasser fliegender Uferläufer",
+        "Prüfungs-Merksatz": "braun-weiß"
+      },
+      "image": null,
+      "imageAlt": "Flussuferläufer"
+    },
+    {
+      "id": 15,
+      "art": "Gartenbaumläufer",
+      "fields": {
+        "Wissenschaftlicher Name": "Certhia brachydactyla",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Baumläufer",
+        "Typischer Lebensraum": "Laub- und Mischwälder, Parks",
+        "Optik – Schlüsselmerkmale": "klein, braun gemustert, weißer Bauch, gebogener Schnabel",
+        "Verwechslungsarten": "Waldbaumläufer",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: Wald  und waldähnliche Strukturen – Baum – Nische / Halbhöhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "klettert spiralförmig aufwärts",
+        "Prüfungs-Merksatz": "klein, braun gemustert, weißer Bauch, gebogener Schnabel"
+      },
+      "image": null,
+      "imageAlt": "Gartenbaumläufer"
+    },
+    {
+      "id": 16,
+      "art": "Gebirgsstelze",
+      "fields": {
+        "Wissenschaftlicher Name": "Motacilla cinerea",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Stelzenverwandte",
+        "Typischer Lebensraum": "rasch fließende Bäche und Flüsse",
+        "Optik – Schlüsselmerkmale": "gelbe Unterseite, grauer Rücken, schwarzer Kehllatz beim Männchen",
+        "Verwechslungsarten": "Bachstelze",
+        "Bruthabitat / Nest": "Fließgewässer – Erde / Abbrüche; Bauwerke – Nische / Halbhöhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "gelbe Unterseite + Gebirgsbach",
+        "Prüfungs-Merksatz": "gelbe Unterseite, grauer Rücken, schwarzer Kehllatz beim Männchen"
+      },
+      "image": null,
+      "imageAlt": "Gebirgsstelze"
+    },
+    {
+      "id": 17,
+      "art": "Gimpel",
+      "fields": {
+        "Wissenschaftlicher Name": "Pyrrhula pyrrhula",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Finkenverwandte",
+        "Typischer Lebensraum": "Wälder, Hecken, Parks",
+        "Optik – Schlüsselmerkmale": "Männchen rosarote Brust, schwarzer Kopf, grauer Rücken; Weibchen matter",
+        "Verwechslungsarten": "Kernbeißer, Dompfaff-Bezeichnung",
+        "Bruthabitat / Nest": "Wald (indifferent) – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "schwarze Kappe + kräftig rote Brust beim Männchen",
+        "Prüfungs-Merksatz": "Männchen rosarote Brust, schwarzer Kopf, grauer Rücken"
+      },
+      "image": null,
+      "imageAlt": "Gimpel"
+    },
+    {
+      "id": 18,
+      "art": "Goldammer",
+      "fields": {
+        "Wissenschaftlicher Name": "Emberiza citrinella",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Ammern",
+        "Typischer Lebensraum": "Heckenreiche Agrarlandschaft, Brachen",
+        "Optik – Schlüsselmerkmale": "Männchen gelber Kopf, brauner Rücken",
+        "Verwechslungsarten": "Ortolanammer (regional)",
+        "Bruthabitat / Nest": "landwirtschaftlich genutztes Offenland (indifferent) – Boden / Krautschicht – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "gelb-braun + markanter Schluss des Gesangs",
+        "Prüfungs-Merksatz": "Männchen gelber Kopf, brauner Rücken"
+      },
+      "image": null,
+      "imageAlt": "Goldammer"
+    },
+    {
+      "id": 19,
+      "art": "Graugans",
+      "fields": {
+        "Wissenschaftlicher Name": "Anser anser",
+        "Ordnung": "Entenvögel",
+        "Familie": "Entenverwandte",
+        "Typischer Lebensraum": "Seen, Teiche, Flussauen, Feuchtgebiete",
+        "Optik – Schlüsselmerkmale": "große graue Gans, rosa/oranger Schnabel",
+        "Verwechslungsarten": "Saatgans, Blässgans",
+        "Bruthabitat / Nest": "Stillgewässer – Boden – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "groß; kräftiger Schnabel; orange-rosa",
+        "Prüfungs-Merksatz": "große graue Gans, rosa/oranger Schnabel"
+      },
+      "image": null,
+      "imageAlt": "Graugans"
+    },
+    {
+      "id": 20,
+      "art": "Graureiher",
+      "fields": {
+        "Wissenschaftlicher Name": "Ardea cinerea",
+        "Ordnung": "Pelikanvögel",
+        "Familie": "Reiher",
+        "Typischer Lebensraum": "Gewässer, Feuchtgebiete, Agrarlandschaft",
+        "Optik – Schlüsselmerkmale": "groß, grau, schwarzer Augen-/Scheitelbereich, langer Hals",
+        "Verwechslungsarten": "Silberreiher",
+        "Bruthabitat / Nest": "Wald (indifferent) – Baum; Schilf – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "im Flug S-förmiger Hals",
+        "Prüfungs-Merksatz": "groß, grau, schwarzer Augen-/Scheitelbereich, langer Hals"
+      },
+      "image": null,
+      "imageAlt": "Graureiher"
+    },
+    {
+      "id": 21,
+      "art": "Grauschnäpper",
+      "fields": {
+        "Wissenschaftlicher Name": "Muscicapa striata",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Schnäpperverwandte",
+        "Typischer Lebensraum": "halboffene Landschaft, Gärten, Waldränder",
+        "Optik – Schlüsselmerkmale": "graubraun, unauffällig gestrichelt; aufrechte Haltung",
+        "Verwechslungsarten": "Trauerschnäpper",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: halboffene Landschaft – Baum – Nische / Halbhöhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Zugvogel",
+        "Kartierungs-/ÖBB-Merker": "Ansitzjäger für Fluginsekten",
+        "Prüfungs-Merksatz": "graubraun, unauffällig gestrichelt"
+      },
+      "image": null,
+      "imageAlt": "Grauschnäpper"
+    },
+    {
+      "id": 22,
+      "art": "Grünfink",
+      "fields": {
+        "Wissenschaftlicher Name": "Chloris chloris",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Finkenverwandte",
+        "Typischer Lebensraum": "Siedlungen, Parks, Feldgehölze",
+        "Optik – Schlüsselmerkmale": "grünlich; gelbe Flügel-/Schwanzpartien",
+        "Verwechslungsarten": "Girlitz",
+        "Bruthabitat / Nest": "Siedlung  (indifferent) – Baum; Strauch – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "gelbe Flügel- und Schwanzkanten",
+        "Prüfungs-Merksatz": "grünlich"
+      },
+      "image": null,
+      "imageAlt": "Grünfink"
+    },
+    {
+      "id": 23,
+      "art": "Grünspecht",
+      "fields": {
+        "Wissenschaftlicher Name": "Picus viridis",
+        "Ordnung": "Spechtvögel",
+        "Familie": "Spechte",
+        "Typischer Lebensraum": "Laubwälder, Parks, Streuobst, Siedlungsränder",
+        "Optik – Schlüsselmerkmale": "grün; roter Scheitel; schwarzer Augen-/Wangenbereich",
+        "Verwechslungsarten": "Grauspecht",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: Wald  und waldähnliche Strukturen – Baum – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "meist Nahrungssuche am Boden nach Ameisen",
+        "Prüfungs-Merksatz": "grün"
+      },
+      "image": null,
+      "imageAlt": "Grünspecht"
+    },
+    {
+      "id": 24,
+      "art": "Haubenmeise",
+      "fields": {
+        "Wissenschaftlicher Name": "Lophophanes cristatus",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Meisen",
+        "Typischer Lebensraum": "Nadel- und Mischwälder",
+        "Optik – Schlüsselmerkmale": "auffällige schwarz-weiß gesprenkelte Haube",
+        "Verwechslungsarten": "Sumpf-/Tannenmeise",
+        "Bruthabitat / Nest": "Nadelwald – Baum – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "Haube ist unverwechselbar",
+        "Prüfungs-Merksatz": "auffällige schwarz-weiß gesprenkelte Haube"
+      },
+      "image": null,
+      "imageAlt": "Haubenmeise"
+    },
+    {
+      "id": 25,
+      "art": "Haubentaucher",
+      "fields": {
+        "Wissenschaftlicher Name": "Podiceps cristatus",
+        "Ordnung": "Lappentaucher",
+        "Familie": "Lappentaucher",
+        "Typischer Lebensraum": "größere Seen und Teiche",
+        "Optik – Schlüsselmerkmale": "langhalsig; schwarze Haube und rotbraune Halskrause",
+        "Verwechslungsarten": "Zwergtaucher",
+        "Bruthabitat / Nest": "Stillgewässer – Wasseroberfläche – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "Balz mit Spiegelbild-/Kopfschütteln",
+        "Prüfungs-Merksatz": "langhalsig"
+      },
+      "image": null,
+      "imageAlt": "Haubentaucher"
+    },
+    {
+      "id": 26,
+      "art": "Hausrotschwanz",
+      "fields": {
+        "Wissenschaftlicher Name": "Phoenicurus ochruros",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Schnäpperverwandte",
+        "Typischer Lebensraum": "Siedlungen, Industrie, Fels",
+        "Optik – Schlüsselmerkmale": "schwarzgrau; rostrote Schwanzpartien; Männchen kontrastreich",
+        "Verwechslungsarten": "Gartenrotschwanz",
+        "Bruthabitat / Nest": "Siedlung  (indifferent) – Gebäude / Bauwerk – Nische / Halbhöhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "rostroter Schwanz + Gebäudebewohner",
+        "Prüfungs-Merksatz": "schwarzgrau"
+      },
+      "image": null,
+      "imageAlt": "Hausrotschwanz"
+    },
+    {
+      "id": 27,
+      "art": "Haussperling",
+      "fields": {
+        "Wissenschaftlicher Name": "Passer domesticus",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Sperlinge",
+        "Typischer Lebensraum": "Siedlungen",
+        "Optik – Schlüsselmerkmale": "Männchen graue Kopfplatte, brauner Nacken, schwarzer Kehlfleck",
+        "Verwechslungsarten": "Feldsperling",
+        "Bruthabitat / Nest": "Siedlung  (indifferent) – Gebäude / Bauwerk – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "größer und ohne schwarzen Wangenfleck",
+        "Prüfungs-Merksatz": "Männchen graue Kopfplatte, brauner Nacken, schwarzer Kehlfleck"
+      },
+      "image": null,
+      "imageAlt": "Haussperling"
+    },
+    {
+      "id": 28,
+      "art": "Heckenbraunelle",
+      "fields": {
+        "Wissenschaftlicher Name": "Prunella modularis",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Braunellen",
+        "Typischer Lebensraum": "Hecken, Gebüsche, Gärten",
+        "Optik – Schlüsselmerkmale": "grauer Kopf/Brust, brauner Rücken",
+        "Verwechslungsarten": "keine sehr nahe Art",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen (indifferent) – Gebüsch – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "unscheinbar; oft bodennah im Gebüsch",
+        "Prüfungs-Merksatz": "grauer Kopf/Brust, brauner Rücken"
+      },
+      "image": null,
+      "imageAlt": "Heckenbraunelle"
+    },
+    {
+      "id": 29,
+      "art": "Höckerschwan",
+      "fields": {
+        "Wissenschaftlicher Name": "Cygnus olor",
+        "Ordnung": "Entenvögel",
+        "Familie": "Entenverwandte",
+        "Typischer Lebensraum": "Seen, Teiche, Flüsse",
+        "Optik – Schlüsselmerkmale": "weiß; schwarzer Höcker über orangefarbenem Schnabel",
+        "Verwechslungsarten": "Singschwan",
+        "Bruthabitat / Nest": "Stillgewässer – Boden – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "schwarzer Höcker am Schnabel",
+        "Prüfungs-Merksatz": "weiß"
+      },
+      "image": null,
+      "imageAlt": "Höckerschwan"
+    },
+    {
+      "id": 30,
+      "art": "Kernbeißer",
+      "fields": {
+        "Wissenschaftlicher Name": "Coccothraustes coccothraustes",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Finkenverwandte",
+        "Typischer Lebensraum": "Laubwälder, Parks",
+        "Optik – Schlüsselmerkmale": "sehr kräftiger Schnabel; orangebraune Brust, dunkler Kopf",
+        "Verwechslungsarten": "Gimpel",
+        "Bruthabitat / Nest": "Laubwald – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "massiver Schnabel",
+        "Prüfungs-Merksatz": "sehr kräftiger Schnabel"
+      },
+      "image": null,
+      "imageAlt": "Kernbeißer"
+    },
+    {
+      "id": 31,
+      "art": "Kiebitz",
+      "fields": {
+        "Wissenschaftlicher Name": "Vanellus vanellus",
+        "Ordnung": "Regenpfeifervögel",
+        "Familie": "Regenpfeiferverwandte",
+        "Typischer Lebensraum": "feuchte Wiesen, Äcker, offene Agrarlandschaft",
+        "Optik – Schlüsselmerkmale": "schwarz-weiß, grünlicher Glanz, lange Federholle",
+        "Verwechslungsarten": "Goldregenpfeifer",
+        "Bruthabitat / Nest": "landwirtschaftlich genutztes Offenland (indifferent) – Boden – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "Federholle + breite Flügel",
+        "Prüfungs-Merksatz": "schwarz-weiß, grünlicher Glanz, lange Federholle"
+      },
+      "image": null,
+      "imageAlt": "Kiebitz"
+    },
+    {
+      "id": 32,
+      "art": "Kleiber",
+      "fields": {
+        "Wissenschaftlicher Name": "Sitta europaea",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Kleiber",
+        "Typischer Lebensraum": "Laub- und Mischwälder, Parks",
+        "Optik – Schlüsselmerkmale": "blaugrauer Rücken, orange Unterseite, schwarzer Augenstreif",
+        "Verwechslungsarten": "Gartenbaumläufer",
+        "Bruthabitat / Nest": "Laubwald – Baum – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "klettert auch kopfüber am Stamm",
+        "Prüfungs-Merksatz": "blaugrauer Rücken, orange Unterseite, schwarzer Augenstreif"
+      },
+      "image": null,
+      "imageAlt": "Kleiber"
+    },
+    {
+      "id": 33,
+      "art": "Kohlmeise",
+      "fields": {
+        "Wissenschaftlicher Name": "Parus major",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Meisen",
+        "Typischer Lebensraum": "Wälder, Parks, Gärten",
+        "Optik – Schlüsselmerkmale": "schwarzer Kopf mit weißen Wangen; gelbe Unterseite mit schwarzem Streifen",
+        "Verwechslungsarten": "Blaumeise",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: Wald  und waldähnliche Strukturen – Baum – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "schwarzer Kopf + breite schwarze Bauchbinde",
+        "Prüfungs-Merksatz": "schwarzer Kopf mit weißen Wangen"
+      },
+      "image": null,
+      "imageAlt": "Kohlmeise"
+    },
+    {
+      "id": 34,
+      "art": "Kormoran",
+      "fields": {
+        "Wissenschaftlicher Name": "Phalacrocorax carbo",
+        "Ordnung": "Ruderfüsser",
+        "Familie": "Scharben",
+        "Typischer Lebensraum": "Gewässer, Flüsse, Seen, Küsten",
+        "Optik – Schlüsselmerkmale": "groß, schwarz, heller Schnabelkehlbereich; sitzt oft mit ausgebreiteten Flügeln",
+        "Verwechslungsarten": "Schwarzschwanartige? keine nahe Prüfungsart",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: Feuchtgebiete des Binnenlandes und der Küste – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "schwarz + Flügel ausbreiten zum Trocknen",
+        "Prüfungs-Merksatz": "groß, schwarz, heller Schnabelkehlbereich"
+      },
+      "image": null,
+      "imageAlt": "Kormoran"
+    },
+    {
+      "id": 35,
+      "art": "Krickente",
+      "fields": {
+        "Wissenschaftlicher Name": "Anas crecca",
+        "Ordnung": "Entenvögel",
+        "Familie": "Entenverwandte",
+        "Typischer Lebensraum": "kleine flache Gewässer, Moore, Überschwemmungsflächen",
+        "Optik – Schlüsselmerkmale": "kleinste heimische Ente; Männchen brauner Kopf mit grünem Augenfeld",
+        "Verwechslungsarten": "Knäkente",
+        "Bruthabitat / Nest": "Stillgewässer – Boden – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "sehr klein; Männchen grüne Gesichtszeichnung",
+        "Prüfungs-Merksatz": "kleinste heimische Ente"
+      },
+      "image": null,
+      "imageAlt": "Krickente"
+    },
+    {
+      "id": 36,
+      "art": "Kuckuck",
+      "fields": {
+        "Wissenschaftlicher Name": "Cuculus canorus",
+        "Ordnung": "Kuckucke",
+        "Familie": "Kuckucke",
+        "Typischer Lebensraum": "halboffene Landschaft, Wälder, Moore",
+        "Optik – Schlüsselmerkmale": "grauer Kopf/Rücken, gebänderte Unterseite; Weibchen braun oder grau",
+        "Verwechslungsarten": "Sperber",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: halboffene Landschaft – Brutparasit – Brutparasit",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Zugvogel",
+        "Kartierungs-/ÖBB-Merker": "Brutparasit bei Wirtsvögeln",
+        "Prüfungs-Merksatz": "grauer Kopf/Rücken, gebänderte Unterseite"
+      },
+      "image": null,
+      "imageAlt": "Kuckuck"
+    },
+    {
+      "id": 37,
+      "art": "Lachmöwe",
+      "fields": {
+        "Wissenschaftlicher Name": "Chroicocephalus ridibundus",
+        "Ordnung": "Regenpfeifervögel",
+        "Familie": "Möwenverwandte",
+        "Typischer Lebensraum": "Binnengewässer, Flüsse, Küsten, Siedlungen",
+        "Optik – Schlüsselmerkmale": "weiß-grau; im Brutkleid dunkelbrauner Kopf",
+        "Verwechslungsarten": "Mittelmeermöwe",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: Feuchtgebiete des Binnenlandes und der Küste – Boden – offenes Nest",
+        "Bruttyp": "Platzhocker",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "dunkle Kapuze im Brutkleid",
+        "Prüfungs-Merksatz": "weiß-grau"
+      },
+      "image": null,
+      "imageAlt": "Lachmöwe"
+    },
+    {
+      "id": 38,
+      "art": "Mauersegler",
+      "fields": {
+        "Wissenschaftlicher Name": "Apus apus",
+        "Ordnung": "Seglervögel",
+        "Familie": "Segler",
+        "Typischer Lebensraum": "Siedlungen mit hohen Gebäuden",
+        "Optik – Schlüsselmerkmale": "fast vollständig dunkel; langer sichelförmiger Flügel",
+        "Verwechslungsarten": "Alpensegler",
+        "Bruthabitat / Nest": "dichte städtische Bebauung – Gebäude / Bauwerk – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Zugvogel",
+        "Kartierungs-/ÖBB-Merker": "sichelförmig; fast nie freiwillig am Boden",
+        "Prüfungs-Merksatz": "fast vollständig dunkel"
+      },
+      "image": null,
+      "imageAlt": "Mauersegler"
+    },
+    {
+      "id": 39,
+      "art": "Mäusebussard",
+      "fields": {
+        "Wissenschaftlicher Name": "Buteo buteo",
+        "Ordnung": "Greifvögel",
+        "Familie": "Habichtverwandte",
+        "Typischer Lebensraum": "Wälder, Agrarlandschaft, Offenland",
+        "Optik – Schlüsselmerkmale": "sehr variabel braun; breite Flügel, gerundeter Schwanz",
+        "Verwechslungsarten": "Rotmilan",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: halboffene Landschaft – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "variable Färbung; oft auf Pfosten",
+        "Prüfungs-Merksatz": "sehr variabel braun"
+      },
+      "image": null,
+      "imageAlt": "Mäusebussard"
+    },
+    {
+      "id": 40,
+      "art": "Mehlschwalbe",
+      "fields": {
+        "Wissenschaftlicher Name": "Delichon urbicum",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Schwalben",
+        "Typischer Lebensraum": "Siedlungen, Gewässernähe",
+        "Optik – Schlüsselmerkmale": "dunkelblauer Rücken, weißer Bürzel und Unterseite",
+        "Verwechslungsarten": "Rauchschwalbe",
+        "Bruthabitat / Nest": "Siedlung  (indifferent) – Gebäude / Bauwerk – geschlossenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Zugvogel",
+        "Kartierungs-/ÖBB-Merker": "weißer Bürzel + gegabelter, relativ kurzer Schwanz",
+        "Prüfungs-Merksatz": "dunkelblauer Rücken, weißer Bürzel und Unterseite"
+      },
+      "image": null,
+      "imageAlt": "Mehlschwalbe"
+    },
+    {
+      "id": 41,
+      "art": "Mittelmeermöwe",
+      "fields": {
+        "Wissenschaftlicher Name": "Larus michahellis",
+        "Ordnung": "Regenpfeifervögel",
+        "Familie": "Möwenverwandte",
+        "Typischer Lebensraum": "Binnengewässer, Küsten, Siedlungen",
+        "Optik – Schlüsselmerkmale": "groß; dunkelgrauer Rücken, gelber kräftiger Schnabel mit rotem Fleck",
+        "Verwechslungsarten": "Silbermöwe/Lachmöwe",
+        "Bruthabitat / Nest": "Binnengewässer (indifferent) – Boden – offenes Nest",
+        "Bruttyp": "Platzhocker",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "kräftige große Möwe; gelber Schnabel",
+        "Prüfungs-Merksatz": "groß"
+      },
+      "image": null,
+      "imageAlt": "Mittelmeermöwe"
+    },
+    {
+      "id": 42,
+      "art": "Mönchsgrasmücke",
+      "fields": {
+        "Wissenschaftlicher Name": "Sylvia atricapilla",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Grasmückenverwandte",
+        "Typischer Lebensraum": "Wälder, Hecken, Gärten",
+        "Optik – Schlüsselmerkmale": "Männchen schwarze, Weibchen braune Kappe",
+        "Verwechslungsarten": "Gartengrasmücke",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: Wald  und waldähnliche Strukturen – Gebüsch – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "Kappe + melodischer Gesang",
+        "Prüfungs-Merksatz": "Männchen schwarze, Weibchen braune Kappe"
+      },
+      "image": null,
+      "imageAlt": "Mönchsgrasmücke"
+    },
+    {
+      "id": 43,
+      "art": "Nachtigall",
+      "fields": {
+        "Wissenschaftlicher Name": "Luscinia megarhynchos",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Schnäpperverwandte",
+        "Typischer Lebensraum": "dichtes Gebüsch, Auwälder, Hecken",
+        "Optik – Schlüsselmerkmale": "unscheinbar braun; rötlicher Schwanz",
+        "Verwechslungsarten": "Sprosser",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen (indifferent) – Krautschicht oberhalb Boden – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Zugvogel",
+        "Kartierungs-/ÖBB-Merker": "unscheinbares Aussehen, außergewöhnlich kräftiger Gesang",
+        "Prüfungs-Merksatz": "unscheinbar braun"
+      },
+      "image": null,
+      "imageAlt": "Nachtigall"
+    },
+    {
+      "id": 44,
+      "art": "Neuntöter",
+      "fields": {
+        "Wissenschaftlicher Name": "Lanius collurio",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Würger",
+        "Typischer Lebensraum": "Heckenreiche Agrarlandschaft, Brachen",
+        "Optik – Schlüsselmerkmale": "Männchen grauer Kopf, schwarzes Augenband, rostbrauner Rücken",
+        "Verwechslungsarten": "Raubwürger",
+        "Bruthabitat / Nest": "landwirtschaftlich genutztes Offenland (indifferent) – Gebüsch – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Zugvogel",
+        "Kartierungs-/ÖBB-Merker": "schwarze Gesichtsmaske; spießt Beute auf Dornen",
+        "Prüfungs-Merksatz": "Männchen grauer Kopf, schwarzes Augenband, rostbrauner Rücken"
+      },
+      "image": null,
+      "imageAlt": "Neuntöter"
+    },
+    {
+      "id": 45,
+      "art": "Nilgans",
+      "fields": {
+        "Wissenschaftlicher Name": "Alopochen aegyptiaca",
+        "Ordnung": "Entenvögel",
+        "Familie": "Entenverwandte",
+        "Typischer Lebensraum": "Seen, Teiche, Flüsse, Agrarlandschaft",
+        "Optik – Schlüsselmerkmale": "braun-grau; auffälliger dunkler Augenfleck",
+        "Verwechslungsarten": "Graugans",
+        "Bruthabitat / Nest": "Stillgewässer – indifferent – indifferent",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "orange-braune Brust + dunkler Augenfleck",
+        "Prüfungs-Merksatz": "braun-grau"
+      },
+      "image": null,
+      "imageAlt": "Nilgans"
+    },
+    {
+      "id": 46,
+      "art": "Rabenkrähe",
+      "fields": {
+        "Wissenschaftlicher Name": "Corvus corone",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Krähenverwandte",
+        "Typischer Lebensraum": "Agrarlandschaft, Siedlungen, Wälder",
+        "Optik – Schlüsselmerkmale": "vollständig schwarz mit kräftigem Schnabel",
+        "Verwechslungsarten": "Saatkrähe",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen (indifferent) – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "kräftig schwarz; befiederter Schnabelgrund",
+        "Prüfungs-Merksatz": "vollständig schwarz mit kräftigem Schnabel"
+      },
+      "image": null,
+      "imageAlt": "Rabenkrähe"
+    },
+    {
+      "id": 47,
+      "art": "Rauchschwalbe",
+      "fields": {
+        "Wissenschaftlicher Name": "Hirundo rustica",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Schwalben",
+        "Typischer Lebensraum": "Dörfer, Viehhaltungen, Offenland",
+        "Optik – Schlüsselmerkmale": "blau-schwarz oben, rote Kehle, sehr langer tief gegabelter Schwanz",
+        "Verwechslungsarten": "Mehlschwalbe",
+        "Bruthabitat / Nest": "dörfliche Bebauung – Gebäude / Bauwerk – Nische / Halbhöhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Zugvogel",
+        "Kartierungs-/ÖBB-Merker": "rote Kehle + lange Schwanzspieße",
+        "Prüfungs-Merksatz": "blau-schwarz oben, rote Kehle, sehr langer tief gegabelter Schwanz"
+      },
+      "image": null,
+      "imageAlt": "Rauchschwalbe"
+    },
+    {
+      "id": 48,
+      "art": "Rebhuhn",
+      "fields": {
+        "Wissenschaftlicher Name": "Perdix perdix",
+        "Ordnung": "Hühnervögel",
+        "Familie": "Fasanverwandte",
+        "Typischer Lebensraum": "offene Agrarlandschaft, Brachen",
+        "Optik – Schlüsselmerkmale": "kompakt, braun-grau; rostbraunes Gesicht; dunkler Bauchfleck beim Männchen",
+        "Verwechslungsarten": "Fasan",
+        "Bruthabitat / Nest": "Acker und Acker-geprägtes Offenland – Boden – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "flache, schnelle Flucht + bodenbewohnend",
+        "Prüfungs-Merksatz": "kompakt, braun-grau"
+      },
+      "image": null,
+      "imageAlt": "Rebhuhn"
+    },
+    {
+      "id": 49,
+      "art": "Reiherente",
+      "fields": {
+        "Wissenschaftlicher Name": "Aythya fuligula",
+        "Ordnung": "Entenvögel",
+        "Familie": "Entenverwandte",
+        "Typischer Lebensraum": "Seen, Teiche, Kiesgruben",
+        "Optik – Schlüsselmerkmale": "Männchen schwarz mit weißer Flanke und gelbem Auge; Weibchen braun",
+        "Verwechslungsarten": "Tafelente",
+        "Bruthabitat / Nest": "Stillgewässer – Boden – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "Männchen schwarz-weiß + gelbes Auge",
+        "Prüfungs-Merksatz": "Männchen schwarz mit weißer Flanke und gelbem Auge"
+      },
+      "image": null,
+      "imageAlt": "Reiherente"
+    },
+    {
+      "id": 50,
+      "art": "Ringeltaube",
+      "fields": {
+        "Wissenschaftlicher Name": "Columba palumbus",
+        "Ordnung": "Tauben",
+        "Familie": "Tauben",
+        "Typischer Lebensraum": "Wälder, Agrarlandschaft, Städte",
+        "Optik – Schlüsselmerkmale": "groß; weiße Halsflecken und Flügelbinden",
+        "Verwechslungsarten": "Straßentaube",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen (indifferent) – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "weißer Halsfleck",
+        "Prüfungs-Merksatz": "groß"
+      },
+      "image": null,
+      "imageAlt": "Ringeltaube"
+    },
+    {
+      "id": 51,
+      "art": "Rotkehlchen",
+      "fields": {
+        "Wissenschaftlicher Name": "Erithacus rubecula",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Schnäpperverwandte",
+        "Typischer Lebensraum": "Wälder, Gärten, Hecken",
+        "Optik – Schlüsselmerkmale": "orange-rote Brust und Gesicht, brauner Rücken",
+        "Verwechslungsarten": "Nachtigall",
+        "Bruthabitat / Nest": "Wald (indifferent) – Boden; Krautschicht – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "orange Brust + aufrechte Haltung",
+        "Prüfungs-Merksatz": "orange-rote Brust und Gesicht, brauner Rücken"
+      },
+      "image": null,
+      "imageAlt": "Rotkehlchen"
+    },
+    {
+      "id": 52,
+      "art": "Rotmilan",
+      "fields": {
+        "Wissenschaftlicher Name": "Milvus milvus",
+        "Ordnung": "Greifvögel",
+        "Familie": "Habichtverwandte",
+        "Typischer Lebensraum": "Agrarlandschaft mit Waldnähe",
+        "Optik – Schlüsselmerkmale": "rostbraun, helles Kopfgefieder, tief gegabelter Schwanz",
+        "Verwechslungsarten": "Schwarzmilan, Mäusebussard",
+        "Bruthabitat / Nest": "Wald (indifferent) – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "tiefe Gabel im Schwanz",
+        "Prüfungs-Merksatz": "rostbraun, helles Kopfgefieder, tief gegabelter Schwanz"
+      },
+      "image": null,
+      "imageAlt": "Rotmilan"
+    },
+    {
+      "id": 53,
+      "art": "Saatkrähe",
+      "fields": {
+        "Wissenschaftlicher Name": "Corvus frugilegus",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Krähenverwandte",
+        "Typischer Lebensraum": "Agrarlandschaft, Städte mit Kolonien",
+        "Optik – Schlüsselmerkmale": "schwarz mit violettem Glanz; Altvögel mit unbefiedertem hellen Schnabelgrund",
+        "Verwechslungsarten": "Rabenkrähe",
+        "Bruthabitat / Nest": "Siedlung  (indifferent) – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "heller Schnabelgrund beim Altvogel",
+        "Prüfungs-Merksatz": "schwarz mit violettem Glanz"
+      },
+      "image": null,
+      "imageAlt": "Saatkrähe"
+    },
+    {
+      "id": 54,
+      "art": "Schwanzmeise",
+      "fields": {
+        "Wissenschaftlicher Name": "Aegithalos caudatus",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Schwanzmeisen",
+        "Typischer Lebensraum": "Laub- und Mischwälder, Hecken",
+        "Optik – Schlüsselmerkmale": "winzig mit extrem langem Schwanz; helles/rosiges Gefieder",
+        "Verwechslungsarten": "keine enge Prüfungsart",
+        "Bruthabitat / Nest": "Wald (indifferent) – Baum – geschlossenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "Körper klein, Schwanz auffällig lang",
+        "Prüfungs-Merksatz": "winzig mit extrem langem Schwanz"
+      },
+      "image": null,
+      "imageAlt": "Schwanzmeise"
+    },
+    {
+      "id": 55,
+      "art": "Singdrossel",
+      "fields": {
+        "Wissenschaftlicher Name": "Turdus philomelos",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Drosseln",
+        "Typischer Lebensraum": "Wälder, Parks, Gärten",
+        "Optik – Schlüsselmerkmale": "brauner Rücken, helle Brust mit dunklen dreieckigen Flecken",
+        "Verwechslungsarten": "Amsel",
+        "Bruthabitat / Nest": "Wald (indifferent) – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "wiederholt Gesangsmotive; gepunktete Brust",
+        "Prüfungs-Merksatz": "brauner Rücken, helle Brust mit dunklen dreieckigen Flecken"
+      },
+      "image": null,
+      "imageAlt": "Singdrossel"
+    },
+    {
+      "id": 56,
+      "art": "Sperber",
+      "fields": {
+        "Wissenschaftlicher Name": "Accipiter nisus",
+        "Ordnung": "Greifvögel",
+        "Familie": "Habichtverwandte",
+        "Typischer Lebensraum": "Wälder, Gärten, Siedlungsränder",
+        "Optik – Schlüsselmerkmale": "kleiner Greifvogel; lange Beine, langer Schwanz; Männchen rötlich quergebändert",
+        "Verwechslungsarten": "Habicht",
+        "Bruthabitat / Nest": "Nadelwald – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "schmalflügelig, langer Schwanz; kleiner als Habicht",
+        "Prüfungs-Merksatz": "kleiner Greifvogel"
+      },
+      "image": null,
+      "imageAlt": "Sperber"
+    },
+    {
+      "id": 57,
+      "art": "Star",
+      "fields": {
+        "Wissenschaftlicher Name": "Sturnus vulgaris",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Starenverwandte",
+        "Typischer Lebensraum": "Siedlungen, Agrarlandschaft, Streuobst",
+        "Optik – Schlüsselmerkmale": "schwarz mit metallischem Glanz und hellen Flecken; im Frühjahr glänzend",
+        "Verwechslungsarten": "Amsel",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: halboffene Landschaft – Baum – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "glänzend + stark imitierend",
+        "Prüfungs-Merksatz": "schwarz mit metallischem Glanz und hellen Flecken"
+      },
+      "image": null,
+      "imageAlt": "Star"
+    },
+    {
+      "id": 58,
+      "art": "Stieglitz",
+      "fields": {
+        "Wissenschaftlicher Name": "Carduelis carduelis",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Finkenverwandte",
+        "Typischer Lebensraum": "halboffene Landschaft, Siedlungen, Ruderalflächen",
+        "Optik – Schlüsselmerkmale": "rotes Gesicht, schwarz-weißer Kopf, gelbe Flügelbinde",
+        "Verwechslungsarten": "Grünfink",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: halboffene Landschaft – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "rote Gesichtsmaske + gelbe Flügelbinde",
+        "Prüfungs-Merksatz": "rotes Gesicht, schwarz-weißer Kopf, gelbe Flügelbinde"
+      },
+      "image": null,
+      "imageAlt": "Stieglitz"
+    },
+    {
+      "id": 59,
+      "art": "Stockente",
+      "fields": {
+        "Wissenschaftlicher Name": "Anas platyrhynchos",
+        "Ordnung": "Entenvögel",
+        "Familie": "Entenverwandte",
+        "Typischer Lebensraum": "fast alle Gewässertypen",
+        "Optik – Schlüsselmerkmale": "Männchen grüner Kopf, weißer Halsring, grauer Körper; Weibchen braun",
+        "Verwechslungsarten": "Schnatterente",
+        "Bruthabitat / Nest": "Binnengewässer (indifferent) – Boden; Baum – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "grüner Kopf + weißer Halsring beim Männchen",
+        "Prüfungs-Merksatz": "Männchen grüner Kopf, weißer Halsring, grauer Körper"
+      },
+      "image": null,
+      "imageAlt": "Stockente"
+    },
+    {
+      "id": 60,
+      "art": "Straßentaube",
+      "fields": {
+        "Wissenschaftlicher Name": "Columba livia f. domestica",
+        "Ordnung": "Tauben",
+        "Familie": "Tauben",
+        "Typischer Lebensraum": "dichte städtische Bebauung",
+        "Optik – Schlüsselmerkmale": "sehr variabel; oft grauer Flügel, dunkle Binden, irisierende Halsseite",
+        "Verwechslungsarten": "Ringeltaube, Türkentaube",
+        "Bruthabitat / Nest": "dichte städtische Bebauung – Gebäude / Bauwerk – Nische / Halbhöhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "Stadtvogel; sehr variable Färbung",
+        "Prüfungs-Merksatz": "sehr variabel"
+      },
+      "image": null,
+      "imageAlt": "Straßentaube"
+    },
+    {
+      "id": 61,
+      "art": "Sumpfmeise",
+      "fields": {
+        "Wissenschaftlicher Name": "Poecile palustris",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Meisen",
+        "Typischer Lebensraum": "Laubwald, feuchte Wälder, Parks",
+        "Optik – Schlüsselmerkmale": "schwarzglänzende Kappe, heller Wangenbereich, kleiner als Kohlmeise",
+        "Verwechslungsarten": "Weidenmeise",
+        "Bruthabitat / Nest": "Laubwald – Baum – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "glänzende schwarze Kappe ohne weiße Wangenzeichnung",
+        "Prüfungs-Merksatz": "schwarzglänzende Kappe, heller Wangenbereich, kleiner als Kohlmeise"
+      },
+      "image": null,
+      "imageAlt": "Sumpfmeise"
+    },
+    {
+      "id": 62,
+      "art": "Tafelente",
+      "fields": {
+        "Wissenschaftlicher Name": "Aythya ferina",
+        "Ordnung": "Entenvögel",
+        "Familie": "Entenverwandte",
+        "Typischer Lebensraum": "größere Stillgewässer",
+        "Optik – Schlüsselmerkmale": "Männchen rotbrauner Kopf, schwarzer Brustbereich, grauer Körper",
+        "Verwechslungsarten": "Reiherente",
+        "Bruthabitat / Nest": "Stillgewässer – Boden – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "roter Kopf + schwarzer Brustbereich",
+        "Prüfungs-Merksatz": "Männchen rotbrauner Kopf, schwarzer Brustbereich, grauer Körper"
+      },
+      "image": null,
+      "imageAlt": "Tafelente"
+    },
+    {
+      "id": 63,
+      "art": "Tannenmeise",
+      "fields": {
+        "Wissenschaftlicher Name": "Periparus ater",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Meisen",
+        "Typischer Lebensraum": "Nadelwälder",
+        "Optik – Schlüsselmerkmale": "grau; schwarzer Kopf mit weißen Wangen, deutlicher weißer Nackenfleck",
+        "Verwechslungsarten": "Haubenmeise, Blaumeise",
+        "Bruthabitat / Nest": "Nadelwald – Baum – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "weißer Nackenfleck + Nadelwald",
+        "Prüfungs-Merksatz": "grau"
+      },
+      "image": null,
+      "imageAlt": "Tannenmeise"
+    },
+    {
+      "id": 64,
+      "art": "Teichhuhn",
+      "fields": {
+        "Wissenschaftlicher Name": "Gallinula chloropus",
+        "Ordnung": "Kranichvögel",
+        "Familie": "Rallen",
+        "Typischer Lebensraum": "Teiche, Gräben, Röhrichte, Parkgewässer",
+        "Optik – Schlüsselmerkmale": "schwarzgrau; roter Schnabel mit gelber Spitze; weiße Flankenstreifen",
+        "Verwechslungsarten": "Blässhuhn",
+        "Bruthabitat / Nest": "Binnengewässer (indifferent) – Röhricht / Schilf oberhalb Boden – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "roter Schnabel; weiße Flankenstreifen",
+        "Prüfungs-Merksatz": "schwarzgrau"
+      },
+      "image": null,
+      "imageAlt": "Teichhuhn"
+    },
+    {
+      "id": 65,
+      "art": "Teichrohrsänger",
+      "fields": {
+        "Wissenschaftlicher Name": "Acrocephalus scirpaceus",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Rohrsängerverwandte",
+        "Typischer Lebensraum": "Röhrichte, Schilfbestände",
+        "Optik – Schlüsselmerkmale": "unscheinbar braun, heller Überaugenstreif",
+        "Verwechslungsarten": "Sumpfrohrsänger",
+        "Bruthabitat / Nest": "Röhrichte und Verlandungszonen – Röhricht / Schilf oberhalb Boden – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Zugvogel",
+        "Kartierungs-/ÖBB-Merker": "Schilfspezialist; rauer Gesang",
+        "Prüfungs-Merksatz": "unscheinbar braun, heller Überaugenstreif"
+      },
+      "image": null,
+      "imageAlt": "Teichrohrsänger"
+    },
+    {
+      "id": 66,
+      "art": "Türkentaube",
+      "fields": {
+        "Wissenschaftlicher Name": "Streptopelia decaocto",
+        "Ordnung": "Tauben",
+        "Familie": "Tauben",
+        "Typischer Lebensraum": "Siedlungen, Dörfer, Städte",
+        "Optik – Schlüsselmerkmale": "hell graubeige; schwarzer Nackenring",
+        "Verwechslungsarten": "Ringeltaube",
+        "Bruthabitat / Nest": "Siedlung  (indifferent) – Baum; Gebäude – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "schmaler schwarzer Nackenring",
+        "Prüfungs-Merksatz": "hell graubeige"
+      },
+      "image": null,
+      "imageAlt": "Türkentaube"
+    },
+    {
+      "id": 67,
+      "art": "Turmfalke",
+      "fields": {
+        "Wissenschaftlicher Name": "Falco tinnunculus",
+        "Ordnung": "Falken",
+        "Familie": "Falken",
+        "Typischer Lebensraum": "Agrarlandschaft, Siedlungen, Felsen",
+        "Optik – Schlüsselmerkmale": "Männchen grauer Kopf, rostbrauner Rücken; langer Schwanz",
+        "Verwechslungsarten": "Sperber",
+        "Bruthabitat / Nest": "Siedlung  (indifferent) – Gebäude / Bauwerk – Nische / Halbhöhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "Rüttelflug + spitzer Flügel",
+        "Prüfungs-Merksatz": "Männchen grauer Kopf, rostbrauner Rücken"
+      },
+      "image": null,
+      "imageAlt": "Turmfalke"
+    },
+    {
+      "id": 68,
+      "art": "Wacholderdrossel",
+      "fields": {
+        "Wissenschaftlicher Name": "Turdus pilaris",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Drosseln",
+        "Typischer Lebensraum": "halboffene Landschaft, Wiesen, Streuobst",
+        "Optik – Schlüsselmerkmale": "grauer Kopf/Bürzel, brauner Rücken, rostbraune Brust mit Flecken",
+        "Verwechslungsarten": "Misteldrossel",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: halboffene Landschaft – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "grauer Kopf + rostbraune Flanken/Brust",
+        "Prüfungs-Merksatz": "grauer Kopf/Bürzel, brauner Rücken, rostbraune Brust mit Flecken"
+      },
+      "image": null,
+      "imageAlt": "Wacholderdrossel"
+    },
+    {
+      "id": 69,
+      "art": "Waldkauz",
+      "fields": {
+        "Wissenschaftlicher Name": "Strix aluco",
+        "Ordnung": "Eeulen",
+        "Familie": "Eulen",
+        "Typischer Lebensraum": "Laub- und Mischwälder, Parks",
+        "Optik – Schlüsselmerkmale": "mittelgroße Eule; rundlicher Kopf ohne Federohren",
+        "Verwechslungsarten": "Waldohreule",
+        "Bruthabitat / Nest": "Laubwald – Baum – Höhle",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "keine / lokale Wanderungen",
+        "Kartierungs-/ÖBB-Merker": "runde Kopfform + nächtlicher Ruf",
+        "Prüfungs-Merksatz": "mittelgroße Eule"
+      },
+      "image": null,
+      "imageAlt": "Waldkauz"
+    },
+    {
+      "id": 70,
+      "art": "Weißstorch",
+      "fields": {
+        "Wissenschaftlicher Name": "Ciconia ciconia",
+        "Ordnung": "Störche",
+        "Familie": "Störche",
+        "Typischer Lebensraum": "Feuchtwiesen, Auen, Agrarlandschaft, Dörfer",
+        "Optik – Schlüsselmerkmale": "groß; weiß mit schwarzen Flügeln, roter Schnabel und Beine",
+        "Verwechslungsarten": "Schwarzstorch",
+        "Bruthabitat / Nest": "dörfliche Bebauung – Gebäude / Bauwerk; Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Zugvogel",
+        "Kartierungs-/ÖBB-Merker": "Klappern + schwarz-weißer Großvogel",
+        "Prüfungs-Merksatz": "groß"
+      },
+      "image": null,
+      "imageAlt": "Weißstorch"
+    },
+    {
+      "id": 71,
+      "art": "Wiesenpieper",
+      "fields": {
+        "Wissenschaftlicher Name": "Anthus pratensis",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Stelzenverwandte",
+        "Typischer Lebensraum": "feuchte Wiesen, Moore, offene Landschaft",
+        "Optik – Schlüsselmerkmale": "braun gestrichelt, heller Bauch; schlanker Stelzenvogel",
+        "Verwechslungsarten": "Baumpieper",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: offene Landschaft – Boden – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "feuchte Offenlandschaft + bodennah",
+        "Prüfungs-Merksatz": "braun gestrichelt, heller Bauch"
+      },
+      "image": null,
+      "imageAlt": "Wiesenpieper"
+    },
+    {
+      "id": 72,
+      "art": "Wintergoldhähnchen",
+      "fields": {
+        "Wissenschaftlicher Name": "Regulus regulus",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Goldhähnchen",
+        "Typischer Lebensraum": "Nadel- und Mischwälder",
+        "Optik – Schlüsselmerkmale": "winzig; gelb-orange Scheitelstreif beim Männchen, weißes Gesicht",
+        "Verwechslungsarten": "Sommergoldhähnchen",
+        "Bruthabitat / Nest": "Nadelwald – Baum – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "extrem klein + sehr hohe Stimme",
+        "Prüfungs-Merksatz": "winzig"
+      },
+      "image": null,
+      "imageAlt": "Wintergoldhähnchen"
+    },
+    {
+      "id": 73,
+      "art": "Zaunkönig",
+      "fields": {
+        "Wissenschaftlicher Name": "Troglodytes troglodytes",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Zaunkönige",
+        "Typischer Lebensraum": "Gebüsche, Wälder, Gärten, Gewässerufer",
+        "Optik – Schlüsselmerkmale": "sehr klein, gedrungen, kurzer aufgestellter Schwanz",
+        "Verwechslungsarten": "keine enge Prüfungsart",
+        "Bruthabitat / Nest": "mehrere Hauptlebensraumtypen: Wald  und waldähnliche Strukturen – Gebüsch – geschlossenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "klein + aufgestellter Schwanz + sehr laut",
+        "Prüfungs-Merksatz": "sehr klein, gedrungen, kurzer aufgestellter Schwanz"
+      },
+      "image": null,
+      "imageAlt": "Zaunkönig"
+    },
+    {
+      "id": 74,
+      "art": "Zilpzalp",
+      "fields": {
+        "Wissenschaftlicher Name": "Phylloscopus collybita",
+        "Ordnung": "Sperlingsvögel",
+        "Familie": "Laubsänger",
+        "Typischer Lebensraum": "Wälder, Parks, Hecken",
+        "Optik – Schlüsselmerkmale": "klein, olivbraun; unscheinbarer heller Überaugenstreif",
+        "Verwechslungsarten": "Fitis",
+        "Bruthabitat / Nest": "Wald (indifferent) – Krautschicht oberhalb Boden – offenes Nest",
+        "Bruttyp": "Nh",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "Gesang 'zilp-zalp'; dunklere Beine als Fitis meist hilfreich",
+        "Prüfungs-Merksatz": "klein, olivbraun"
+      },
+      "image": null,
+      "imageAlt": "Zilpzalp"
+    },
+    {
+      "id": 75,
+      "art": "Zwergtaucher",
+      "fields": {
+        "Wissenschaftlicher Name": "Tachybaptus ruficollis",
+        "Ordnung": "Lappentaucher",
+        "Familie": "Lappentaucher",
+        "Typischer Lebensraum": "kleine, dicht bewachsene Stillgewässer",
+        "Optik – Schlüsselmerkmale": "winzig; gedrungener Körper, kurzer Hals, im Brutkleid kastanienbraune Wangen/Hals",
+        "Verwechslungsarten": "Haubentaucher",
+        "Bruthabitat / Nest": "Stillgewässer – Wasseroberfläche – offenes Nest",
+        "Bruttyp": "Nf",
+        "Zugverhalten": "Teilzieher",
+        "Kartierungs-/ÖBB-Merker": "kleinster heimischer Lappentaucher",
+        "Prüfungs-Merksatz": "winzig"
+      },
+      "image": null,
+      "imageAlt": "Zwergtaucher"
+    }
+  ]
+}
